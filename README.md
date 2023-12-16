@@ -51,4 +51,3 @@ Especificações Técnicas
 
 O sistema será desenvolvido usando a linguagem C# através da tecnologia ASP.NET MVC no back-end da aplicação e JavaScript usando React.JS para desenvolver o front-end.
 O banco de dados será [], necessário para armazenar imagens e todos os dados que serão cadastrados no sistema.
-![image](https://github.com/danielcperalba/sistema-para-hotel/assets/81268953/95de3370-1b84-4bc3-9b98-392e4925203f)
